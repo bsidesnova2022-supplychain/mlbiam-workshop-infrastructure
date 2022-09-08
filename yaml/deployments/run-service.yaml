@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:mlbiam-workshop-application-18725b93abd189c0f302c9d1f26f3955f404850b
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:mlbiam-workshop-application-777197d20a30cf20ddae9ca40b077431693442e3
         imagePullPolicy: Always
         name: pause
         resources: {}
